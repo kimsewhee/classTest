@@ -7,7 +7,7 @@ package basic.day1;
 	1) 평균 저장 변수를 정수 avgInt   2) 평균 저장 변수를 실수 avgDouble 각각 해보세요.
 	계산한 1) 2)를 각각 출력 합니다. => 오류가 생길까요?
 */
-public class A05VariableExam {
+public class A05DataCasting {
 
 	public static void main(String[] args) {
 		int sum;

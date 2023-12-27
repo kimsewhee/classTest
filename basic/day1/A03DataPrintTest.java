@@ -1,25 +1,19 @@
 package basic.day1;
 
 //데이터의 종류 : 원시타입 primitive type
-public class A03DataTest {
+public class A03DataPrintTest {
 	
 	public static void main(String[] args) {
 		
-		System.out.println(":::: 원시타입 primitive type ::::");
-		System.out.println("1. 정수는 기본 타입이 int 입니다.");
-		System.out.println("2. 실수는 기본 타입이 double 입니다.");
-		System.out.println("3. 논리형식 boolean 은 참 또는 거짓을 표현합니다.");
-		System.out.println("4. 문자형식 char 은 문자 1개를 ''안에 표현합니다.");
-		
-		System.out.println(":::: 리터럴(값 자체) 형식 ::::");
-		System.out.println("정수 : " + 2345);			//문자열에서 사용하는 + 는 연결기능입니다.
-		System.out.println("실수 : " + 3.1419);
-		System.out.println("논리 : " + true +"," + false);
-		System.out.println("문자 : " + 'a' + "," + '8');
-		System.out.println("*참고*문자열 : " + "2345");
+		System.out.println(":::: 원시타입 primitive type 리터럴 ::::");
+		System.out.println("정수 int : " + 2345);			//문자열에서 사용하는 + 는 연결기능입니다.
+		System.out.println("실수 double : " + 3.1419);
+		System.out.println("논리 boolean : " + true +"," + false);
+		System.out.println("문자 char : " + 'a' + "," + '8');
+		System.out.println("*주의 \" 안에 표시한 값은 무조건 문자열 : 예, " + "2345");
 		
 		// 정수,실수는 사칙연산을 할수 있습니다.(더하기,빼기,곱하기,나누기)
-		// 리터럴은 한번 사용하고 끝나는 값이므로 저장해서 또 사용하고 싶은 데이터는 변수를 활용합니다.
+		// 리터럴은 한번 사용하고 끝나는 값이므로 저장해서 또 사용해야 한다면 변수를 활용합니다.
 		
 		System.out.println(":::: 변수 활용 ::::");
 		//(1)데이터 저장
@@ -60,8 +54,7 @@ public class A03DataTest {
 		//아래와 같은 경우는 = 기준 오른쪽과 왼쪽 타입이 일치하지 않으므로 오류 
 		//age = age > = 20;
 		
-		double myWeight = weight + 3.5;
-		System.out.println("새로운 나의 몸무게 : " + myWeight);
+		//실수 float 과 double의 차이점
 		
 	}
 	
