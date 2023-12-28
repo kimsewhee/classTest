@@ -1,4 +1,4 @@
-package basic.day1;
+package basic.day2;
 
 public class PrintExam {
 	
