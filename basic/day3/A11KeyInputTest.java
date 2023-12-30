@@ -1,4 +1,4 @@
-package basic.day2;
+package basic.day3;
 
 import java.util.Scanner;	//기본클래스는 java.lang 패키지에 있고 그 이외의 자바클래스는 import 합니다.
 

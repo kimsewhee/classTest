@@ -1,6 +1,6 @@
-package basic.day2;
+package basic.day3;
 
-public class A04DoubleFloatTest {
+public class DoubleFloatTest {
 	
 	public static void main(String[] args) {
 

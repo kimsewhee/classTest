@@ -1,7 +1,7 @@
-package basic.day2;
+package basic.day3;
 
 //if 조건문 시작 : 첫번째형식은    if (조건식) {    참일때 실행하는 명령문들…..    }
-public class A10IfTest {
+public class IfTest {
 
 	public static void main(String[] args) {
 		

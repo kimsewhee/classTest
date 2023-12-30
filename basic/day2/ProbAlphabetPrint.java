@@ -1,6 +1,6 @@
 package basic.day2;
 
-public class A08AlphabetPrint {
+public class ProbAlphabetPrint {
 	
 //	변수는 char start 1개만 선언하세요.
 //  증가 연산자와 출력문을 여러번 사용해서 A~Z 출력하세요. 	=> 업데이트 예정 : 반복할 때 사용하는 for문

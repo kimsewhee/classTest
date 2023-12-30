@@ -1,11 +1,11 @@
 package basic.day1;
 
 //데이터의 종류 : 원시타입 primitive type
-public class A03DataPrintTest {
+public class A02DataPrintTest {
 	
 	public static void main(String[] args) {
 		
-		System.out.println(":::: 원시타입 primitive type 리터럴 ::::");
+		System.out.println(":::: 기본타입 primitive type 리터럴 ::::");
 		System.out.println("정수 int : " + 2345);			//문자열에서 사용하는 + 는 연결기능입니다.
 		System.out.println("실수 double : " + 3.1419);
 		System.out.println("논리 boolean : " + true +"," + false);

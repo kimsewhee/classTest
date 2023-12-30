@@ -1,6 +1,6 @@
-package basic.day2;
+package basic.day3;
 
-public class A09MathTest {
+public class MathTest {
     
     public static void main(String[] args) {
         
