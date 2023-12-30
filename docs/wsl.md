@@ -22,12 +22,15 @@
   * [마이크로소프트 공식](https://learn.microsoft.com/ko-kr/windows/wsl/install)
 
   *  windows powershell 실행-관리자 권한으로 실행하세요.
-    ![Alt text](images/20231230_113553.png)
+
+  ![Alt text](images/20231230_113553.png)
 
   * 현재 설치된 WSL 시스템 확인 - 아래 그림처럼 기본값 외에 항목이 있으면 이미 설치된 것입니다. 
-    ![Alt text](images/20231230_114715.png)
+
+  ![Alt text](images/20231230_114715.png)
 
   * 설치된 경우 버전도 확인해 보세요.
+  
   ![Alt text](images/20231230_115003.png)
 
   * 이미 설치되어 있으면 아래 과정은 Skip~!
@@ -37,7 +40,6 @@
 ![Alt text](images/20231230_115914.png)
 
 `아래 명령을 사용하려면 Windows 10 버전 2004 이상(빌드 19041 이상) 또는 Windows 11을 실행해야 합니다. 이전 버전을 사용 중인 경우 수동 설치 페이지를 참조하세요.` 라고 되어있는데 확인해본바 버전은 요건에 충족되지만 예전에 wsl --install 로하다가 오류가 났던것 같아 [이전 버전 WSL의 수동 설치 단계](https://learn.microsoft.com/ko-kr/windows/wsl/install-manual)로 했습니다. 시스템 상태에 따라 성공여부가 다를 것이니 여러분은 공식 페이지 안내대로 해보세요.
-
 
 
 #### 윈도우기능 설정
