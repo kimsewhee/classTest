@@ -48,25 +48,33 @@
   * 위의 필수조건 버전 확인 참고
 #### step 3. Virtual Machine 기능 사용  
   * 명령어는 직접 입력하지 말고 복사 기능 이용하세요.
+
 ![Alt text](images/20231230_181329.png)
 
 #### step 4. Linux 커널 업데이트 패키지 다운로드
+
 ![Alt text](images/20231230_182930.png)
 
 #### step 5. WSL 2를 기본 버전으로 설정
+
 ![Alt text](images/20231230_182248.png)
 
 #### step 6. 선택한 Linux 배포 설치
+
 ![Alt text](images/20231230_181818.png)
+
 ![Alt text](images/20231230_181834.png)
 
 #### windows terminal 설치하기
   * 기존 power shell 보다 기능이 향상되어 여러 종류의 터미널을 다중으로 사용할 수 있습니다.
+
   ![Alt text](images/20231230_183317.png)
+
   ![Alt text](images/20231230_183312.png)
 
 #### 윈도우에서 wsl 파일 공유하기
   * 파일탐색기 주소창에서 입력하기
+
 ![Alt text](images/20231230_183550.png)
 
 ##### 문제해결
