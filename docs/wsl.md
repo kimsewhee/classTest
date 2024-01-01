@@ -81,3 +81,8 @@
 
 ##### 문제해결
   * https://ymister.cafe24.com/textcube/1010
+
+
+#### vs code 에 WSL 확장 기능 설치하기
+
+#### windows terminal 에서 ubuntu 터미널 열어서 code . 하면 리눅스 환경에서 vs code 실행하고 개발할 수 있음.
